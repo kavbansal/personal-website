@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.Games {
+  max-width: 40%;
+  height: auto;
+}
+
+.Tennis {
+  max-width: 40%;
+  height: auto;
+}
+
+.Piano {
+  max-width: 60%;
+  height: auto;
+}
+
+.Movies {
+  max-width: 70%;
+  height: auto;
+}
 
 .App-header {
   background-color: #282c34;
